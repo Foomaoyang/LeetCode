@@ -29,12 +29,9 @@
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\workspace\py\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -68,6 +65,8 @@
       <workItem from="1588158067417" duration="477000" />
       <workItem from="1588160240315" duration="284000" />
       <workItem from="1588205967779" duration="641000" />
+      <workItem from="1590549181831" duration="345000" />
+      <workItem from="1590549567733" duration="74000" />
     </task>
     <servers />
   </component>
@@ -75,18 +74,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="384" y="0" key="#Array" timestamp="1588206026129">
+    <state x="384" y="0" key="#Array" timestamp="1590549213944">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="384" y="0" key="#Array/0.0.1440.920@0.0.1440.920" timestamp="1588206026129" />
-    <state x="451" y="143" key="FileChooserDialogImpl" timestamp="1588158321497">
+    <state x="384" y="0" key="#Array/0.0.1440.920@0.0.1440.920" timestamp="1590549213944" />
+    <state x="451" y="143" key="FileChooserDialogImpl" timestamp="1590549281484">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="451" y="143" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1588158321497" />
-    <state x="106" y="19" key="SettingsEditor" timestamp="1588160523283">
+    <state x="451" y="143" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1590549281484" />
+    <state x="106" y="19" key="SettingsEditor" timestamp="1590549601204">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="106" y="19" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1588160523283" />
+    <state x="106" y="19" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1590549601204" />
     <state x="481" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588129611491">
       <screen x="0" y="0" width="1440" height="920" />
     </state>

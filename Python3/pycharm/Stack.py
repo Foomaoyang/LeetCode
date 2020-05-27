@@ -44,6 +44,23 @@ def test_stack():
 
     assert len(s) == 3
     assert s.pop() is 2
+    assert s.pop() == 1
+    assert s.pop() is 0
+
+    assert s.is_empty()
+
+    import pytest
+    with pytest.raises(Exception) as excinfo:
+        s.pop()
+    assert 'empty' in str(excinfo.value)
+
+
+# 栈溢出
+def infinite_fib(n):
+    return infinite_fib(n-1) + infinite_fib(n-2)
+
+if __name__== "__name__":
+    infinite_fib(10)
 
 
 
